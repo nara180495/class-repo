@@ -1,4 +1,3 @@
-Kristian	
-Germany	
+Beatriz
 Meta Front-End course
 
